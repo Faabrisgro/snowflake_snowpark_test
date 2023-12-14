@@ -19,7 +19,7 @@
 				"docker-build"
 			],
 			"python": {
-				"file": "datascience_project.py"
+				"file": "mysnowpark.py"
 			}
 		}
 	]
