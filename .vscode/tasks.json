@@ -19,7 +19,7 @@
 				"docker-build"
 			],
 			"python": {
-				"file": "mysnowpark.py"
+				"file": "my_snowpark.py"
 			}
 		}
 	]
